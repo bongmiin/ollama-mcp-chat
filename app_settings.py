@@ -6,7 +6,7 @@ APP_SETTINGS_PATH = "app_settings.json"
 DEFAULT_CONFIG = {
     "ai_service": "Ollama",  # Ollama, OpenAI, Claude, Gemini, Qwen
     "llm_model": "qwen3:14b",
-    "temperature": 0.9,
+    "temperature": 0.1,
     "timeout": 600,
     "prompt": "",
 }

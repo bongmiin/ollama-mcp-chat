@@ -15,7 +15,7 @@
     },
     "temperature": {
         "type": "float",
-        "value": 0.9
+        "value": 0.1
     },
     "timeout": {
         "type": "int",
