@@ -62,7 +62,7 @@ ollama pull <model-name>
   "mcpServers": {
     "weather": {
       "command": "python",
-      "args": ["./mcp/mcp_server_weather.py"],
+      "args": ["./mcp_server/mcp_server_weather.py"],
       "transport": "stdio"
     }
   }

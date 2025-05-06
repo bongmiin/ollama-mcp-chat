@@ -396,7 +396,7 @@ class ChatWindow(QMainWindow):
         for chat in self.chat_history.getChatList():
             self.chat_history_list.addItem(chat["title"])
         if add_new_chat:
-            self.chat_history_list.addItem("(새 채팅)")
+            self.chat_history_list.addItem("(New chat)")
 
     def startNewChat(self):
         self.setNewChatState()
