@@ -1,0 +1,20 @@
+{
+  "user": "user_01",
+  "entries": [
+    {
+      "date": "2025-05-13",
+      "exercise": "런닝",
+      "duration_min": 30,
+      "heart_rate": 174,
+      "feedback": "페이스는 적당했으나, 호흡이 가빴다면 내일은 휴식이 권장됩니다."
+    },
+    {
+      "date": "2025-05-14",
+      "exercise": "계단 오르기",
+      "floors": 12,
+      "duration_min": 20,
+      "heart_rate": 168,
+      "feedback": "심박수 안정적. 근력 루틴으로 전환 권장."
+    }
+  ]
+}
