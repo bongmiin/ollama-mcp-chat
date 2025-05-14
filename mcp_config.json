@@ -13,6 +13,19 @@
                 "./mcp_server/mcp_server_file_manager.py"
             ],
             "transport": "stdio"
+        },
+        "duckduckgo-mcp-server": {
+            "command": "cmd",
+            "args": [
+                "/c",
+                "npx",
+                "-y",
+                "@smithery/cli@latest",
+                "run",
+                "@nickclyde/duckduckgo-mcp-server",
+                "--key",
+                "8f53731a-813f-4ed5-91b8-78e5a9b29f1c"
+            ]
         }
     }
 }

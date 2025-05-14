@@ -11,7 +11,7 @@
     },
     "llm_model": {
         "type": "string",
-        "value": "qwen3:14b"
+        "value": "qwen3:4b"
     },
     "temperature": {
         "type": "float",
